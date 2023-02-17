@@ -1,0 +1,183 @@
+[
+    {
+        "id": "celular-01",
+        "titulo": "Celular 01",
+        "imagen": "./img/01.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "celular-02",
+        "titulo": "Celular 02",
+        "imagen": "./img/02.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "celular-03",
+        "titulo": "Celular 03",
+        "imagen": "./img/03.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "celular-04",
+        "titulo": "Celular 04",
+        "imagen": "./img/04.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "celular-05",
+        "titulo": "Celular 05",
+        "imagen": "./img/05.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "notebook-01",
+        "titulo": "Notebook 01",
+        "imagen": "./img/06.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "notebook-02",
+        "titulo": "Notebook 02",
+        "imagen": "./img/07.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "notebook-03",
+        "titulo": "Notebook 03",
+        "imagen": "./img/08.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "notebook-04",
+        "titulo": "Notebook 04",
+        "imagen": "./img/09.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "notebook-05",
+        "titulo": "Notebook 05",
+        "imagen": "./img/10.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "notebook-06",
+        "titulo": "Notebook 06",
+        "imagen": "./img/11.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "notebook-07",
+        "titulo": "Notebook 07",
+        "imagen": "./img/12.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "notebook-08",
+        "titulo": "Notebook 08",
+        "imagen": "./img/13.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "parlante-01",
+        "titulo": "Parlante 01",
+        "imagen": "./img/19.jpg",
+        "categoria": {
+            "nombre": "Parlantes",
+            "id": "parlantes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "parlante-02",
+        "titulo": "Parlante 02",
+        "imagen": "./img/15.jpg",
+        "categoria": {
+            "nombre": "Parlantes",
+            "id": "parlantes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "parlante-03",
+        "titulo": "Parlante 03",
+        "imagen": "./img/16.jpg",
+        "categoria": {
+            "nombre": "Parlantes",
+            "id": "parlantes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "parlante-04",
+        "titulo": "Parlante 04",
+        "imagen": "./img/17.jpg",
+        "categoria": {
+            "nombre": "Parlantes",
+            "id": "parlantes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "parlante-05",
+        "titulo": "Parlante 05",
+        "imagen": "./img/18.jpg",
+        "categoria": {
+            "nombre": "Parlantes",
+            "id": "parlantes"
+        },
+        "precio": 1000
+    }
+]
+
